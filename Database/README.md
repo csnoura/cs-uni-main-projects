@@ -5,8 +5,18 @@ This project is designed as a **Pharmacy Database Management System**. It demons
 ---
 
 ## Highlights
+### **1. Multi-User Interface**
+- **Manager Interface:**  
+  - Add, delete, retrieve, and update:
+    - **Drugs** (e.g., formula name, trade name, expiration date).
+    - **Employees** (e.g., name, branch, degree).
+  - Perform operations via a user-friendly GUI.
+  
+- **Doctor Interface:**  
+  - Add, delete, retrieve, and update:
+    - **Prescriptions** (e.g., formula name, trade name, quantity, patient SSN).
+    - Retrieve patients treated by a specific doctor.
 
-- A user-friendly **Swing-based GUI** for user interaction.
-- Login functionality to authenticate users (placeholder).
-- Database connectivity.
-- Execution of SQL queries.
+### **2. Database Integration**
+- Connects to a MySQL database to manage data related to drugs, employees, prescriptions, and patients.
+- Uses SQL queries for CRUD operations (Create, Read, Update, Delete).
