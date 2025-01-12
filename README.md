@@ -7,5 +7,5 @@ A collection of my university coursework, showcasing projects and assignments on
 - **Data Structures:** 
 - **Machine Learning:** 
 - **Parallel Computing:**
-- **Opreating Systems:**
+- **Database Systems:**
 - **Artificial Intelligence:** 
